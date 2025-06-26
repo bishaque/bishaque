@@ -45,8 +45,6 @@ Here are some of my favorite projects:
 | [Project1](#) | Short summary of what it does and why it matters. | HTML, CSS, JS |
 | [Project2](#) | Another highlight project, with your role and the impact. | React, Figma |
 
-<sub>*Replace with your own projects and GitHub repo links!*</sub>
-
 ---
 
 ## 📈 GitHub Stats
